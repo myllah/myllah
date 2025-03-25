@@ -54,7 +54,13 @@ I am passionate about leveraging tools and languages that optimize data utilizat
   <a href="https://github.com/lucaspmatos/PS-SI-2019-2-PetHoster">
     <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=lucaspmatos&repo=PS-SI-2019-2-PetHoster&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
   </a>
+  <a href="https://github.com/SD-20221-2/time_2_detector_pessoal_de_quedas">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SD-20221-2&repo=time_2_detector_pessoal_de_quedas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+  </a>
 </p>
+
+
+
 
 [![All Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/myllah?tab=repositories&q=&type=&language=&sort=stargazers)
 
