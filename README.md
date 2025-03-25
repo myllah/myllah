@@ -48,6 +48,8 @@ I am passionate about leveraging tools and languages that optimize data utilizat
 
 
 <p align="left">
+  College Projects:
+</br>
   <a href="https://github.com/joshuajka/apoemaMatch">
     <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshuajka&repo=apoemaMatch&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
   </a>
@@ -57,12 +59,42 @@ I am passionate about leveraging tools and languages that optimize data utilizat
   <a href="https://github.com/SD-20221-2/time_2_detector_pessoal_de_quedas">
     <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SD-20221-2&repo=time_2_detector_pessoal_de_quedas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
   </a>
+    <a href="https://github.com/myllah/projeto-final-poo">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=myllah&repo=projeto-final-poo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+  </a>
+  </a>
+    <a href="https://github.com/myllah/UFG-Sistemas-de-Informacao">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=myllah&repo=UFG-Sistemas-de-Informacao&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+  </a>
+
+  
 </p>
 
+<p align="left">
+  Courses Projects:
+</br>
+  <a href="https://github.com/myllah/freecodecamp_data_analysis_with_python">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=freecodecamp_data_analysis_with_python&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
+  </a>
+  <a href="https://github.com/myllah/kaggle-courses">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=kaggle-courses&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
+  </a>
+</p>
 
+<p align="left">
+  Personal Projects:
+</br>
+  <a href="https://github.com/myllah/Ezrah">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=Ezrah&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
+  </a>
+  <a href="https://github.com/myllah/usefull_codes_and_hacks">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=usefull_codes_and_hacks&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
+  </a>
 
+  
+</p>
 
-[![All Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/myllah?tab=repositories&q=&type=&language=&sort=stargazers)
+[![All Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/myllah?tab=repositories)
 
 
 ## GitHub Status
