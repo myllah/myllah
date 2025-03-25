@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**myllah/myllah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Data-driven professional with extensive experience across various domains within the data management ecosystem. Currently working as a **Data Engineer, Mgmt & Governance Analyst** at **Accenture Brasil**, contributing to challenging and innovative projects. Developed strong skills in **data cataloging**, **data governance**, **data integration**, and **data transformation**, always applying best practices to enhance process efficiency and quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hands-on experience with tools such as **Alation**, **Talend**, **Python**, **Google BigQuery**, **Dataform**, and **Looker**, leading the delivery of data ingestion solutions and building robust, scalable data pipelines. Collaborated with global teams, performing quality validations in English, strengthening communication and collaboration skills in international environments.
+
+Previous experience as a **Data Analyst Junior** and **Data Analyst Trainee**, focusing on **data modeling**, **pipeline optimization**, and **data analysis**. Also served as a **Mathematical Logic monitor** at **Federal University of Goiás** and worked as a **Software Testing Scholar**, applying **black box testing** methodologies to fiscal systems.
+
+Strong focus on **structured data**, **data cleansing**, and **process automation**, consistently seeking new ways to optimize and transform data into valuable insights. Committed to continuous improvement and excellence, aligning end-user needs with effective technical solutions.
+
+*   🌎 I'm from **Brazil**
+*   🌱 Passionate about **nature**
+*   📚 Currently enhancing my skills in **Google Cloud Platform (GCP)**
+*   💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/mylenamarianapiresbarbosa/)
+*   📄 Check out my [Resume](https://www.linkedin.com/in/mylenamarianapiresbarbosa/overlay/1742866901325/single-media-viewer/?profileId=ACoAAB7SYuoBC4-_JDLeFey_bsbqy395QwXoMwY) for more details about my career. I'm open to feedback and suggestions!
+
+> "You are what you do, not what you say you'll do."  
+> — Carl Gustav Jung
+
+### Connect With Me
+
+I am always open to new connections, discussions, and learning opportunities with other professionals. Feel free to reach out via the following channels:
+
+[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:mylenamariana2000@gmail.com) [![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/mylenamarianapiresbarbosa/) [![whatsapp logo](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/5562984819963) [![github logo](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/myllah)
+
+### Languages and Tools
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="40" />
+</div>
+
+I am passionate about leveraging tools and languages that optimize data utilization and tackle complex challenges. Below are some of the technologies I have extensive experience with, which allow me to create efficient, scalable solutions:
+
+*   **ETL & Data Integration:** Expertise in extracting, transforming, and loading data across various systems.
+*   **DataStage & Data Cleansing:** Skilled in optimizing data pipelines and ensuring data quality.
+*   **Data Modeling:** Proficient in designing efficient and scalable data models.
+*   **Alation & Data Catalog:** Experience with data cataloging and governance tools to ensure data accessibility and security.
+*   **SQL & BigQuery:** Advanced knowledge of SQL and experience working with Google BigQuery for large-scale data processing.
+*   **GCP & Looker:** Extensive experience with Google Cloud Platform (GCP) and building data visualizations and dashboards in Looker.
+*   **Dataform:** Utilized Dataform to streamline and automate data transformations in cloud-based data environments.
+*   **Proactivity:** Continuously seek innovative solutions to improve data processes and drive business insights.
+
+## 📘 Most Relevant Projects
+
+<a href="https://github.com/myllah/ezrah">
+  <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="300" height="200" />
+</a>
+
+[![All Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/myllah?tab=repositories&q=&type=&language=&sort=stargazers)
+
+
+## GitHub Status
+
+![stats graph](https://github-readme-stats.vercel.app/api?username=myllah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false) ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=myllah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
