@@ -1,7 +1,5 @@
 # Hi there!
 
-## About Me
-
 Data-driven professional with extensive experience across various domains within the data management ecosystem. Currently working as a **Data Engineer, Mgmt & Governance Analyst** at **Accenture Brasil**, contributing to challenging and innovative projects. Developed strong skills in **data cataloging**, **data governance**, **data integration**, and **data transformation**, always applying best practices to enhance process efficiency and quality.
 
 Hands-on experience with tools such as **Alation**, **Talend**, **Python**, **Google BigQuery**, **Dataform**, and **Looker**, leading the delivery of data ingestion solutions and building robust, scalable data pipelines. Collaborated with global teams, performing quality validations in English, strengthening communication and collaboration skills in international environments.
@@ -47,6 +45,16 @@ I am passionate about leveraging tools and languages that optimize data utilizat
 <a href="https://github.com/myllah/ezrah">
   <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="300" height="200" />
 </a>
+
+
+<p align="left">
+  <a href="https://github.com/joshuajka/apoemaMatch">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshuajka&repo=apoemaMatch&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
+  </a>
+  <a href="https://github.com/lucaspmatos/PS-SI-2019-2-PetHoster">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=lucaspmatos&repo=PS-SI-2019-2-PetHoster&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+  </a>
+</p>
 
 [![All Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/myllah?tab=repositories&q=&type=&language=&sort=stargazers)
 
