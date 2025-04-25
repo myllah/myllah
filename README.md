@@ -48,7 +48,7 @@ Explore my full collection of projects and contributions on GitHub:
 
 Find below a curated list of my most relevant repositories, showcasing key projects and technical skills:
 
-#### Personal Projects:
+#### Personal/Pet Projects:
 
 <p 
 align="left">
