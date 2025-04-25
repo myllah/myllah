@@ -1,3 +1,4 @@
+
 # Hi there!
 
 Data-driven professional with extensive experience across various domains within the data management ecosystem. Currently working as a **Data Engineer, Mgmt & Governance Analyst** at **Accenture Brasil**, contributing to challenging and innovative projects. Developed strong skills in **data cataloging**, **data governance**, **data integration**, and **data transformation**, always applying best practices to enhance process efficiency and quality.
@@ -41,62 +42,56 @@ I am passionate about leveraging tools and languages that optimize data utilizat
 *   **Proactivity:** Continuously seek innovative solutions to improve data processes and drive business insights.
 
 ## 📘 Most Relevant Projects
+Explore my full collection of projects and contributions on GitHub:
 
-<a href="https://github.com/myllah/ezrah">
-  <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="300" height="200" />
-</a>
+ [![All Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/myllah?tab=repositories) 
 
+Find below a curated list of my most relevant repositories, showcasing key projects and technical skills:
 
+#### Personal Projects:
+
+<p 
+align="left">
+  <a href="https://github.com/myllah/Ezrah">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=Ezrah&bg_color=1b2921&title_color=0BDA51&icon_color=66cdaa&text_color=cedfc1&border_color=2e8b57&theme=react&show_icons=true" alt="readme-typing-svg">
+  </a>
+  <a href="https://github.com/myllah/usefull_codes_and_hacks">
+    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=usefull_codes_and_hacks&bg_color=1b2921&title_color=0BDA51&icon_color=66cdaa&text_color=cedfc1&border_color=2e8b57&theme=react&show_icons=true" alt="readme-typing-svg">
+  </a>
+</p>
+
+####   Courses Projects:
 <p align="left">
-  College Projects:
-</br>
+  <a href="https://github.com/myllah/freecodecamp_data_analysis_with_python">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=freecodecamp_data_analysis_with_python&bg_color=1b2921&title_color=0BDA51&icon_color=66cdaa&text_color=cedfc1&border_color=2e8b57&theme=react&show_icons=false" alt="freecodecamp_data_analysis_with_python repo">
+  </a>
+  <a href="https://github.com/myllah/kaggle-courses">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=kaggle-courses&bg_color=1b2921&title_color=0BDA51&icon_color=66cdaa&text_color=cedfc1&border_color=2e8b57&theme=react&show_icons=false" alt="kaggle-courses repo">
+  </a>
+</p>
+
+####   College Projects:
+<p align="left">
   <a href="https://github.com/joshuajka/apoemaMatch">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshuajka&repo=apoemaMatch&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshuajka&repo=apoemaMatch&bg_color=1b2921&title_color=0BDA51&icon_color=66cdaa&text_color=cedfc1&border_color=2e8b57&theme=react&show_icons=false" alt="readme-typing-svg">
   </a>
   <a href="https://github.com/lucaspmatos/PS-SI-2019-2-PetHoster">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=lucaspmatos&repo=PS-SI-2019-2-PetHoster&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=lucaspmatos&repo=PS-SI-2019-2-PetHoster&theme=react&bg_color=1b2921&title_color=0BDA51&icon_color=66cdaa&text_color=cedfc1&border_color=2e8b57&theme=react&show_icons=false" alt="custom-icon-badges">
   </a>
   <a href="https://github.com/SD-20221-2/time_2_detector_pessoal_de_quedas">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SD-20221-2&repo=time_2_detector_pessoal_de_quedas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SD-20221-2&repo=time_2_detector_pessoal_de_quedas&theme=react&bg_color=1b2921&title_color=0BDA51&icon_color=66cdaa&text_color=cedfc1&border_color=2e8b57&theme=react&show_icons=false" alt="custom-icon-badges">
   </a>
     <a href="https://github.com/myllah/projeto-final-poo">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=myllah&repo=projeto-final-poo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=myllah&repo=projeto-final-poo&theme=react&bg_color=1b2921&title_color=0BDA51&icon_color=66cdaa&text_color=cedfc1&border_color=2e8b57&theme=react&show_icons=false" alt="custom-icon-badges">
   </a>
   </a>
     <a href="https://github.com/myllah/UFG-Sistemas-de-Informacao">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=myllah&repo=UFG-Sistemas-de-Informacao&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
-  </a>
-
-  
-</p>
-
-<p align="left">
-  Courses Projects:
-</br>
-  <a href="https://github.com/myllah/freecodecamp_data_analysis_with_python">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=freecodecamp_data_analysis_with_python&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
-  </a>
-  <a href="https://github.com/myllah/kaggle-courses">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=kaggle-courses&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
+    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=myllah&repo=UFG-Sistemas-de-Informacao&theme=react&bg_color=1b2921&title_color=0BDA51&icon_color=66cdaa&text_color=cedfc1&border_color=2e8b57&theme=react&show_icons=false" alt="custom-icon-badges">
   </a>
 </p>
 
-<p align="left">
-  Personal Projects:
-</br>
-  <a href="https://github.com/myllah/Ezrah">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=Ezrah&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
-  </a>
-  <a href="https://github.com/myllah/usefull_codes_and_hacks">
-    <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=myllah&repo=usefull_codes_and_hacks&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
-  </a>
-
-  
-</p>
-
-[![All Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/myllah?tab=repositories)
 
 
 ## GitHub Status
 
-![stats graph](https://github-readme-stats.vercel.app/api?username=myllah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false) ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=myllah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+![stats graph](https://github-readme-stats.vercel.app/api?username=myllah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true) ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=myllah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)
